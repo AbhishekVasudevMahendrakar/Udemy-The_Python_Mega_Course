@@ -1,0 +1,37 @@
+Section-1: Introduction
+
+1. Course Introduction:
+	A complete Python course for both beginners and intermediates! Master Python 3 by making 10 amazing Python apps.
+The course starts with basics till the 10 real time based application programs.
+
+2. How to contact your Instructor:
+	One can freely ask the their questions in the Q&A section, even if it is the silliest question. All questions are answered.
+
+3. Preview of the 10 Apps:
+	The 10 application based programs we build during the course of the course are,
+     * A program that returns English-word definitions
+
+     * A program that blocks access to distracting websites
+
+     * A web map visualizing volcanoes and population data
+
+     * A portfolio website
+
+     * A desktop-graphical program with a database backend
+
+     * A webcam motion detector
+
+     * A web scraper of real estate data
+ 
+     * An interactive web graph
+
+     * A database web application
+
+     * A web service that converts addresses to geographic coordinates.
+
+4. The tools you need:
+	Irrespective of the OS(Win, Mac and Linux) we use, we need python3 and Visual Studios(IDE).
+
+5. Installing Python 3 and an IDE(Win, Mac and Linux):
+	Download link of Python 3: https://www.python.org/downloads/
+	Download link of Visual studio: https://code.visualstudio.com/Download
